@@ -1,6 +1,6 @@
 # React Native Navigation Animation
 
-Beautiful Navigation animation with transation made with React Native.
+Beautiful Navigation animation with transition made with React Native.
 
 Check it out on Dribbble (https://dribbble.com/shots/4115418-Home-page-interactions)
 
