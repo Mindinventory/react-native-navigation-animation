@@ -17,6 +17,7 @@ iPhone: `react-native run-ios`
 
 # Usage
 
+```js
 render() {
     return (
         <SafeAreaView style={styles.mainContainer}>
@@ -100,7 +101,7 @@ render() {
         </SafeAreaView>
     );
 }
-
+```
 
 
 ## Dependencies
