@@ -4,7 +4,6 @@ Beautiful Navigation animation with transition made with React Native.
 
 Check it out on Dribbble (https://dribbble.com/shots/4115418-Home-page-interactions)
 
-Read about how we made this on our blog (https://www.mindinventory.com/blog/create-tabbar-plugin-with-react-native/)
 
 <img src="https://cdn.dribbble.com/users/1233499/screenshots/4115418/iphone_x6.gif" >
 
